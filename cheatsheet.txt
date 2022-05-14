@@ -1,0 +1,12 @@
+
+git config --global user.name "Code with Sumit"
+git config --global user.email "bagri.itbhu@gmail.com"
+touch .gitignore
+git init
+git add .
+git commit -m "Initial Commit"
+git status #just to see
+$ git remote add origin git@github.com:sbagri2708/WebAPIDemoProject.git
+$ ssh-keygen -t rsa -b 4096 -C "bagri.itbhu@gmail.com"
+$ cat /c/Users/Thinkpad/.ssh/id_rsa.pub # Add this key to your github account
+$ git push origin master
