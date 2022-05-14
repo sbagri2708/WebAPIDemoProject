@@ -1,0 +1,17 @@
+D:\SevenLakes\WebAPIDemoProject\RouteTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\SevenLakes\WebAPIDemoProject\RouteTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\SevenLakes\WebAPIDemoProject\RouteTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\SevenLakes\WebAPIDemoProject\RouteTests\bin\Debug\netcoreapp2.1\RouteTests.deps.json
+D:\SevenLakes\WebAPIDemoProject\RouteTests\bin\Debug\netcoreapp2.1\RouteTests.runtimeconfig.json
+D:\SevenLakes\WebAPIDemoProject\RouteTests\bin\Debug\netcoreapp2.1\RouteTests.runtimeconfig.dev.json
+D:\SevenLakes\WebAPIDemoProject\RouteTests\bin\Debug\netcoreapp2.1\RouteTests.dll
+D:\SevenLakes\WebAPIDemoProject\RouteTests\bin\Debug\netcoreapp2.1\RouteTests.pdb
+D:\SevenLakes\WebAPIDemoProject\RouteTests\bin\Debug\netcoreapp2.1\WebAPIDemoProject.dll
+D:\SevenLakes\WebAPIDemoProject\RouteTests\bin\Debug\netcoreapp2.1\WebAPIDemoProject.pdb
+D:\SevenLakes\WebAPIDemoProject\RouteTests\obj\Debug\netcoreapp2.1\RouteTests.csprojAssemblyReference.cache
+D:\SevenLakes\WebAPIDemoProject\RouteTests\obj\Debug\netcoreapp2.1\RouteTests.csproj.CoreCompileInputs.cache
+D:\SevenLakes\WebAPIDemoProject\RouteTests\obj\Debug\netcoreapp2.1\RouteTests.AssemblyInfoInputs.cache
+D:\SevenLakes\WebAPIDemoProject\RouteTests\obj\Debug\netcoreapp2.1\RouteTests.AssemblyInfo.cs
+D:\SevenLakes\WebAPIDemoProject\RouteTests\obj\Debug\netcoreapp2.1\RouteTests.csproj.CopyComplete
+D:\SevenLakes\WebAPIDemoProject\RouteTests\obj\Debug\netcoreapp2.1\RouteTests.dll
+D:\SevenLakes\WebAPIDemoProject\RouteTests\obj\Debug\netcoreapp2.1\RouteTests.pdb

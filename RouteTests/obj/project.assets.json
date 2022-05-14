@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "F:\\Sumit\\SevenLakes\\WebAPIDemoProject\\WebAPIDemoProject\\WebAPIDemoProject.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Sumit\\SevenLakes\\WebAPIDemoProject\\RouteTests\\RouteTests.csproj",
+      "projectName": "RouteTests",
+      "projectPath": "F:\\Sumit\\SevenLakes\\WebAPIDemoProject\\RouteTests\\RouteTests.csproj",
+      "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
+      "outputPath": "F:\\Sumit\\SevenLakes\\WebAPIDemoProject\\RouteTests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {
+            "F:\\Sumit\\SevenLakes\\WebAPIDemoProject\\WebAPIDemoProject\\WebAPIDemoProject.csproj": {
+              "projectPath": "F:\\Sumit\\SevenLakes\\WebAPIDemoProject\\WebAPIDemoProject\\WebAPIDemoProject.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {}
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'F:\\Sumit\\SevenLakes\\WebAPIDemoProject\\WebAPIDemoProject\\WebAPIDemoProject.csproj'. Inside Visual Studio, this may be because the project is unloaded or not part of current solution. Otherwise the project file may be invalid or missing targets required for restore.",
+      "libraryId": "F:\\Sumit\\SevenLakes\\WebAPIDemoProject\\WebAPIDemoProject\\WebAPIDemoProject.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
+}

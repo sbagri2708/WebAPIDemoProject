@@ -1,0 +1,14 @@
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\bin\Debug\netcoreapp2.1\WebAPIDemoProject.deps.json
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\bin\Debug\netcoreapp2.1\WebAPIDemoProject.runtimeconfig.json
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\bin\Debug\netcoreapp2.1\WebAPIDemoProject.runtimeconfig.dev.json
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\bin\Debug\netcoreapp2.1\WebAPIDemoProject.dll
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\bin\Debug\netcoreapp2.1\WebAPIDemoProject.pdb
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\obj\Debug\netcoreapp2.1\WebAPIDemoProject.csprojAssemblyReference.cache
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\obj\Debug\netcoreapp2.1\WebAPIDemoProject.csproj.CoreCompileInputs.cache
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\obj\Debug\netcoreapp2.1\WebAPIDemoProject.RazorAssemblyInfo.cache
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\obj\Debug\netcoreapp2.1\WebAPIDemoProject.RazorAssemblyInfo.cs
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\obj\Debug\netcoreapp2.1\WebAPIDemoProject.AssemblyInfoInputs.cache
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\obj\Debug\netcoreapp2.1\WebAPIDemoProject.AssemblyInfo.cs
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\obj\Debug\netcoreapp2.1\WebAPIDemoProject.RazorTargetAssemblyInfo.cache
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\obj\Debug\netcoreapp2.1\WebAPIDemoProject.dll
+D:\SevenLakes\WebAPIDemoProject\WebAPIDemoProject\obj\Debug\netcoreapp2.1\WebAPIDemoProject.pdb
